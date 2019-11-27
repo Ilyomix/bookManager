@@ -1,0 +1,30 @@
+.bok-root-wrboker {
+  height: calc(100vh - 64px);
+}
+.bok-footer {
+  background-color: #512da8;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  color: white;
+  padding: 0.5rem 1rem;
+  font-size: 12px;
+  margin-top: -2.2rem;
+}
+
+.bok-logo {
+  display: flex;
+  justify-content: center;
+}
+
+.bok-logo > .mat-icon {
+  font-size: 29px;
+}
+.bok-logo > div {
+  margin-left: 0.65rem;
+}
+
+.bok-todo-header {
+  justify-content: space-between;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  color: white;
+  background-color: #512da8;
+}
